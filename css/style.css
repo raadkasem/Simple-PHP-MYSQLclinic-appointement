@@ -1,0 +1,58 @@
+*{
+    font-family: 'Janna LT';
+    border:0;
+    box-sizing: border-box;
+    direction: rtl;
+
+}
+
+.logo {
+    text-align: center;
+    margin: 40px 0;  /*40 up and down - 0 right-left*/
+}
+
+.logo img {
+    width: 100px;
+}
+
+.logo h2{
+    font-size: 29px;
+    font-weight: 600;
+    color: #20d4dd;
+}
+
+.book {
+    text-align: center;
+    
+}
+.book p{
+    
+    font-size: 24px;
+    
+}
+.book input {
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+.book input[type="submit"] {
+    font-size: 16px;
+    color: white;
+    background-color: #20d4dd;
+   
+    
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+th{
+    background-color: #20bac2;
+    color: white;
+    padding: 5px 0px;
+
+}
